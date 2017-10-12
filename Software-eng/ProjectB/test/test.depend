@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506596688 source:c:\users\think\desktop\projectb\test\main.c
+	<stdlib.h>
+	"header.h"
+
+1506596611 c:\users\think\desktop\projectb\test\header.h
+
+1506596639 source:c:\users\think\desktop\projectb\test\menu.c
+	<stdio.h>
+	"header.h"
+
